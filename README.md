@@ -11,3 +11,4 @@ Para el resto del texto hemos utilizado otro tipo de letra. El nombre de la fuen
 ![Gama de Colores](assets/img/colores.png)
 
 ## PROTOTIPOS
+![Prototipo](assets/img/prototipo.png)
