@@ -1,6 +1,6 @@
 # salvar-a-los-libros
 ## DEFINICION
-Con este proyecto lo que queremos conseguir es darle una segunda vida a nuestros libros, Tanto los de lectura como los de estudio.
+Con este proyecto lo que queremos conseguir es darle una segunda vida a nuestros libros, Tanto los de lectura como los de estudio. Para ello he pensado que se podria hacer una venta de esos llibros o incluso poder donarlo a alguna asociacion sin animo de lucro.
 
 ## FUENTES
 Para las fuentes hemos utilizado 'google fonts' donde hemos elegido dos tipos diferentes de letras.
