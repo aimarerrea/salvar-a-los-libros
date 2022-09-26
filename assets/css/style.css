@@ -1,0 +1,97 @@
+#cabecera{
+    background-color: rgb(12, 169, 169);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 2px solid black;
+}
+#cabecera h1{
+    color:black;
+    font-size: 200%;
+    text-align: center;
+    padding: auto auto;
+
+}
+#cabecera a{
+    text-decoration: none;
+}
+#contenedor{
+    background-color: rgb(147, 147, 147);
+    height: 1250px;
+}
+ul{
+    text-align: center;
+}
+a{
+    color: black;
+}
+li{
+    display: inline;
+    margin: auto 10px;
+}
+
+#texto1{
+    text-align: justify;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    padding-left: 5px;
+}
+#texto1 p{
+    margin-right: 200px;
+}
+#texto1 img{
+    float: right;
+}
+
+#texto2{
+    text-align: justify;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    padding-left: 5px;
+}
+#texto2 p{
+    margin-right: 200px;
+}
+#texto2 img{
+    float: right;
+}
+#texto3{
+    text-align: justify;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    padding-left: 5px;
+}
+#texto3 p{
+    margin-right: 200px;
+}
+#texto3 img{
+    float: right;
+}
+hr {
+    color: rgba(0, 0, 0, 0);
+    background-color: black;
+    height: 2px;
+}
+#Pie{
+    background-color: rgb(12, 169, 169);
+}
+h1,h2,th{
+    font-family: 'Roboto', sans-serif;
+}
+p,a,td{
+    font-family: 'Open Sans', sans-serif;
+}
+#tabla {
+    padding: 10px;
+    background-color:rgb(195, 195, 195);
+}
+#tabla th{
+    padding: 20px;
+}
+#tabla img{
+    width: 100px;
+    padding-left: 75px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
