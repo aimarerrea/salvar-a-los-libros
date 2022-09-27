@@ -95,6 +95,7 @@ p,a,td{
 }
 #formulario{
     background-color:rgb(195, 195, 195);
+    margin-bottom: 20px;
 }
 #formulario p{
     padding-right: 20px;
@@ -107,4 +108,16 @@ p,a,td{
     float: right;
     padding-bottom: 80px;
     padding-right: 40px;
+}
+#login{
+    background-color:rgb(195, 195, 195);
+}
+#login h2{
+    padding-top: 50px;
+}
+#login p{
+    padding-top: 20px;
+}
+#piemapa iframe{
+    padding-left: 450px;
 }
